@@ -1,0 +1,242 @@
+/* Mobile */
+@media (max-width: 500px) {
+  .lylich {
+    border-right: 0 solid #dbdbdb;
+  }
+
+  .banner-img {
+    max-width: 500px;
+    height: 250px;
+  }
+
+  .middle-navbar {
+    display: none;
+  }
+
+  .container1 ul {
+    display: block;
+    line-height: 2;
+  }
+
+  .thongtin {
+    border-right: 0 solid #dbdbdb;
+  }
+
+  .container2 {
+    display: grid;
+    grid-template-columns: 100%;
+    margin-top: -20px;
+    max-width: 500px;
+    justify-content: center;
+  }
+
+  #target {
+    padding-left: 35px;
+    height: 350px;
+  }
+
+  .info {
+    padding-left: 35px;
+  }
+
+  .section-title2 {
+    padding-left: 35px;
+  }
+
+  .container3 {
+    margin: auto;
+    max-width: 400px;
+    display: grid;
+    grid-template-columns: 400px;
+    gap: 25px;
+    margin-top: 30px;
+    line-height: 1.5;
+    height: auto;
+  }
+
+  .container5 {
+    max-width: 500px;
+  }
+
+  .sothich {
+    top: 0;
+  }
+
+  .sothich2 {
+    padding-left: 10px;
+  }
+
+  .ngonngu {
+    top: 0px;
+  }
+
+  .kynang {
+    top: 0px;
+    margin-bottom: 50px;
+    width: 400px;
+    padding-right: 0;
+  }
+
+  .chungchy {
+    display: grid;
+    grid-template-columns: 450px;
+    margin: auto;
+    max-width: 450px;
+  }
+
+  .chungchy1 {
+    border-right: none;
+  }
+
+  .chungchy1 div,
+  .chungchy1 p,
+  .chungchy2 div,
+  .chungchy2 p,
+  .chungchy3 div,
+  .chungchy3 p {
+    padding-left: 30px;
+  }
+
+  .anhchungchy {
+    width: 400px;
+  }
+
+  .section-title9 {
+    padding-left: 40px;
+    padding-bottom: 0;
+  }
+
+  .section-title10 {
+    padding-left: 40px;
+  }
+
+  .pro1 {
+    display: grid;
+    grid-template-columns: 450px;
+    column-gap: 30px;
+    max-width: 450px;
+    line-height: 1.5;
+    padding-bottom: 50px;
+  }
+
+  .anhpro {
+    width: 450px;
+  }
+
+  .mixi {
+    grid-row: 7;
+    margin-top: 30px;
+  }
+
+  .textpro1 {
+    grid-column: 1;
+    grid-row: 8;
+  }
+
+  .textpro2 {
+    grid-column: 1;
+    grid-row: 3;
+  }
+
+  .pro3 {
+    grid-column: 1;
+    grid-row: 10;
+  }
+
+  .pro4 {
+    grid-column: 1;
+    grid-row: 11;
+  }
+
+  .pro6 {
+    grid-row: 5;
+  }
+
+  .line2 {
+    grid-row: 2;
+  }
+
+  .line9 {
+    grid-row: 9;
+  }
+
+  .pro2,
+  .pro3,
+  .pro4,
+  .pro5,
+  .pro6,
+  .pro7 {
+    grid-template-columns: 90px 350px;
+  }
+
+  .futer {
+    color: #b1b1b1;
+    display: grid;
+    grid-template-columns: 300px;
+    height: 100px;
+    justify-items: center;
+    align-items: center;
+    padding-left: 0px;
+    max-width: 300px;
+    margin: auto;
+  }
+
+  .container6 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 100px;
+    width: 300px;
+    position: relative;
+  }
+
+  .icon-facebook-circled {
+    font-size: 30px;
+    position: relative;
+    left: 0;
+    top: 5px;
+  }
+
+  .icon-linkedin-circled {
+    font-size: 30px;
+    position: relative;
+    left: 0;
+    top: 5px;
+  }
+
+  .icon-github-circled {
+    font-size: 30px;
+    position: relative;
+    left: 0;
+    top: 5px;
+  }
+
+  .ic-toolbox {
+    font-size: 45px;
+    color: #b1b1b1;
+    padding-left: 110px;
+  }
+
+  .ic-pencil {
+    font-size: 45px;
+    color: #b1b1b1;
+    padding-left: 166px;
+  }
+
+  .ic-telescope {
+    font-size: 45px;
+    color: #b1b1b1;
+    padding-left: 171px;
+  }
+
+  .ic-mic {
+    font-size: 45px;
+    color: #b1b1b1;
+    padding-left: 168px;
+  }
+
+  .ic-tools-2 {
+    font-size: 45px;
+    color: #b1b1b1;
+    padding-left: 167px;
+  }
+}
